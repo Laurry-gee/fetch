@@ -1,4 +1,4 @@
-# fetch
+#! fetch
 
 fetch is a **lightweight** and **powerful** API testing tool.
 
