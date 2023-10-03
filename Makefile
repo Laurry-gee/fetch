@@ -1,7 +1,7 @@
-.PHONY: dep test build
+PHONY: dep test build
 
 build:
-	go build .
+	go build 
 
 
 dep:
