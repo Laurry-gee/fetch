@@ -8,8 +8,8 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "fetch",
-	Short: "fetch is a command line http test tool maintain the api test cases via git and pure text",
+	Use:   "post",
+	Short: "post is a command line http test tool maintain the api test cases via git and pure text",
 	Long:  `A command lin http test tool. Complete documentation is available at https://github.com/wklken/fetch`,
 	Run: func(cmd *cobra.Command, args []string) {
 		cmd.Help()
